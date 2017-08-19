@@ -1,9 +1,8 @@
 ; mul32.asm
 ; CSC 230 - Summer 2017
 ;
-; Starter code for assignment 1
-;
-; B. Bird - 04/30/2017
+; This program performs multiplation by repetitive adding
+; Based on a template by Bill Bird
 
 .cseg
 .org 0
