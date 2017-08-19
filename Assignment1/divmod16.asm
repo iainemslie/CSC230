@@ -2,7 +2,7 @@
 ; CSC 230 - Summer 2017
 ; Iain Emslie CSC 230
 ;
-; This program performs multiplication using register additions
+; This program performs integer division
 ; Based on a template by Bill Bird
 
 .cseg
