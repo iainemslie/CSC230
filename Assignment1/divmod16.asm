@@ -1,9 +1,9 @@
 ; divmod16.asm
 ; CSC 230 - Summer 2017
+; Iain Emslie CSC 230
 ;
-; Starter code for assignment 1
-;
-; B. Bird - 04/30/2017
+; This program performs multiplication using register additions
+; Based on a template by Bill Bird
 
 .cseg
 .org 0
