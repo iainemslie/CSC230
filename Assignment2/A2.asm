@@ -1,7 +1,7 @@
 ;Iain Emslie V00825434
 ;Based on example code from Bill Bird
 ;This program creates a pattern of flashing LEDs
-; 
+;Uses and Arduino 2560 and Arduino Display kit 6 bit Blue LED Module Board 
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
