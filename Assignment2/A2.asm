@@ -1,5 +1,7 @@
 ;Iain Emslie V00825434
-;Based on code from Connex by Bill Bird
+;Based on example code from Bill Bird
+;This program creates a pattern of flashing LEDs
+; 
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
