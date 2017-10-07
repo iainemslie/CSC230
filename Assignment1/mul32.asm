@@ -2,7 +2,7 @@
 ; CSC 230 - Summer 2017
 ;
 ; This program performs multiplation by repetitive adding
-; Based on a template by Bill Bird
+
 
 .cseg
 .org 0
