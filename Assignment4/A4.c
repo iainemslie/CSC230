@@ -1,4 +1,4 @@
-/*V00825434 Iain Emslie*/
+/*Iain Emslie*/
 /*This program is a stopwatch for an Arduino ATMEGA2560 */
 /*Uses a LCD 1602 Board Keypad*/
 
